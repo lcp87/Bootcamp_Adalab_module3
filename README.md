@@ -1,2 +1,2 @@
 # Bootcamp_Adalab_module3
-Exercices in Module 3 by: @oliviamarino and @lcp87
+Exercises in Module 3 by: @oliviamarino and @lcp87
